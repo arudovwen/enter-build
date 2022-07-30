@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd37e42c.chunk.css",
-    "main.js": "/static/js/main.c838cc1b.chunk.js",
-    "main.js.map": "/static/js/main.c838cc1b.chunk.js.map",
+    "main.css": "/static/css/main.70081c89.chunk.css",
+    "main.js": "/static/js/main.4f4ab07b.chunk.js",
+    "main.js.map": "/static/js/main.4f4ab07b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57b69cdf.js",
     "runtime-main.js.map": "/static/js/runtime-main.57b69cdf.js.map",
     "static/css/2.d6cfe833.chunk.css": "/static/css/2.d6cfe833.chunk.css",
-    "static/js/2.e69bf397.chunk.js": "/static/js/2.e69bf397.chunk.js",
-    "static/js/2.e69bf397.chunk.js.map": "/static/js/2.e69bf397.chunk.js.map",
+    "static/js/2.1092c86e.chunk.js": "/static/js/2.1092c86e.chunk.js",
+    "static/js/2.1092c86e.chunk.js.map": "/static/js/2.1092c86e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d6cfe833.chunk.css.map": "/static/css/2.d6cfe833.chunk.css.map",
-    "static/css/main.dd37e42c.chunk.css.map": "/static/css/main.dd37e42c.chunk.css.map",
-    "static/js/2.e69bf397.chunk.js.LICENSE.txt": "/static/js/2.e69bf397.chunk.js.LICENSE.txt",
+    "static/css/main.70081c89.chunk.css.map": "/static/css/main.70081c89.chunk.css.map",
+    "static/js/2.1092c86e.chunk.js.LICENSE.txt": "/static/js/2.1092c86e.chunk.js.LICENSE.txt",
     "static/media/gtwalsheimpro.css": "/static/media/GTWalsheimPro-Medium.bc56cfc1.ttf",
     "static/media/auth-img.f67f9253.png": "/static/media/auth-img.f67f9253.png",
     "static/media/avatar.jpg": "/static/media/avatar.21d108f8.jpg",
@@ -58,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.57b69cdf.js",
     "static/css/2.d6cfe833.chunk.css",
-    "static/js/2.e69bf397.chunk.js",
-    "static/css/main.dd37e42c.chunk.css",
-    "static/js/main.c838cc1b.chunk.js"
+    "static/js/2.1092c86e.chunk.js",
+    "static/css/main.70081c89.chunk.css",
+    "static/js/main.4f4ab07b.chunk.js"
   ]
 }
